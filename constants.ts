@@ -1,7 +1,7 @@
 import { Tier, TierConfig, AppMode } from './types';
 import { MessageSquare, Eye, GraduationCap, Code2, Palette } from 'lucide-react';
 
-export const INITIAL_API_KEY = "AIzaSyCNOTSHKYB6b6GNpSRwzjQJ8dtCxVbkXLY";
+export const INITIAL_API_KEY = "";
 
 export const ACCESS_KEYS: Record<string, Tier> = {
   'KRYLO-GENESIS-KEY': 'STARTER',
