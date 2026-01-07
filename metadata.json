@@ -1,0 +1,7 @@
+{
+  "name": "Krylo AI",
+  "description": "A futuristic, high-performance AI interface featuring distinct access tiers, multimodal capabilities, and a premium glassmorphism aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
