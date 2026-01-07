@@ -1,7 +1,8 @@
 import { Tier, TierConfig, AppMode } from './types';
 import { MessageSquare, Eye, GraduationCap, Code2, Palette } from 'lucide-react';
 
-export const INITIAL_API_KEY = "";
+// SECURITY: API Key must be set in Environment Variables (process.env.GEMINI_API)
+// Do not hardcode keys here.
 
 export const ACCESS_KEYS: Record<string, Tier> = {
   'KRYLO-GENESIS-KEY': 'STARTER',
